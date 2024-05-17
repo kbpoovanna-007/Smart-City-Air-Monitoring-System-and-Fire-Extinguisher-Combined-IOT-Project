@@ -24,6 +24,5 @@
 if 0 comes reduce the delay to 1 
 since no key has hash 0
 
-<em> A device that will automatically extinguish flames.
-    A device that, when remotely triggered, will transmit CO2, temperature, and humidity data to ThingsBoard. </em>
+<em> A device that will automatically detect and extinguish flames and when remotely triggered, will transmit CO2, temperature, and humidity data to ThingsBoard. </em>
 
