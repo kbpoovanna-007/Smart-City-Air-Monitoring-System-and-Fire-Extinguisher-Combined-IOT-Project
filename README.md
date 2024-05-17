@@ -25,6 +25,6 @@ if 0 comes reduce the delay to 1
 since no key has hash 0
 
 
-**    A device that will automatically extinguish flames.
-    A device that, when remotely triggered, will transmit CO2, temperature, and humidity data to ThingsBoard.**
-![image](https://github.com/kbpoovanna-007/Smart-City-Air-Monitoring-System-and-Fire-Extinguisher-Combined-IOT-Project/assets/89855214/ce463675-c6dd-4f0e-ad9c-0dc7465db1a1)
+*    A device that will automatically extinguish flames.
+    A device that, when remotely triggered, will transmit CO2, temperature, and humidity data to ThingsBoard.*
+
