@@ -21,8 +21,8 @@
 - left# -> E916FF00
 - right# -> F20DFF00
 
-if 0 comes reduce the delay to 1 
-since no key has hash 0
+<em>if 0 comes reduce the delay to 1 
+since no key has hash 0</em>
 
 <em> A device that will automatically detect and extinguish flames and when remotely triggered, will transmit CO2, temperature, and humidity data to ThingsBoard. </em>
 
